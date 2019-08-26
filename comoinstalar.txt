@@ -1,4 +1,4 @@
-Como instalar GIT:
+Como instalar git:
 
 1)http://git-scm.com/downloads
 2)Configurar username e email:
@@ -9,4 +9,8 @@ Como instalar GIT:
 	cd project1
 	
 	.... fazer o que quiser!
+
+colocando
+mais
+algumas linhas
 	
