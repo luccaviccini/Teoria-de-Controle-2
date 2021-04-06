@@ -1,6 +1,1 @@
-# hello-world
-primeiros passos git
-
-Hi Humans!
-
-Lucca Here!! Teste123
+# Teoria de Controle II - Autor Lucca Viccini
